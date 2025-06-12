@@ -1,12 +1,7 @@
 [
-  {
-    "id": 1,
-    "title": "Learn Go",
-    "completed": false
-  },
-  {
-    "id": 2,
-    "title": "Build a REST API",
-    "completed": true
-  }
+ {
+  "id": 2,
+  "title": "Build a REST API",
+  "completed": true
+ }
 ]
